@@ -174,6 +174,12 @@ You should then see and follow the prompts:
 
  nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
  nginx: configuration file /etc/nginx/nginx.conf test is successful
+ 
+.. note::
+
+      To renew use "/usr/local/sbin/dehydrated -c"
+
+::
 
 .. tip::
 
